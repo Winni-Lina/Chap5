@@ -40,10 +40,10 @@ public class MainActivity extends AppCompatActivity {
                     linearDog.setVisibility(View.VISIBLE);
                     break;
                 case R.id.btn_cat:
-                    linearDog.setVisibility(View.VISIBLE);
+                    linearCat.setVisibility(View.VISIBLE);
                     break;
                 case R.id.btn_snail:
-                    linearDog.setVisibility(View.VISIBLE);
+                    linearSnail.setVisibility(View.VISIBLE);
                     break;
             }
         }
